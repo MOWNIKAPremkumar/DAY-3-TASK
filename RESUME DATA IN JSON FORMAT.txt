@@ -1,0 +1,60 @@
+RESUME DATA IN JSON FORMAT
+
+Var RESUME :[{
+
+"Name"     : "N. MOWNIKA";
+"Email"    : "mowni02mani09@gmail.com";
+"Phone Number": "8807666600";
+};
+
+"OBJECTIVE":{
+
+"Objective": "Looking for an IT Job";
+};
+
+"EDUCATIONAL QUALIFICATION":{
+
+"Degree"    : "BA English Literature ";
+"PERCENTAGE":  "68%";
+"Year of passing":  "2018";
+"College"   : "Vellalar College for women";
+"Affiliated University": "Bharathiar University";
+"Higher Secondary":  "Year of passing -2015";
+"School"    : "Bharathi Matriculation and Higher secondary School";
+"PERCENTAGE":  "71%";
+"SSLC"      :  "Year of passing -2013";
+"School"    : "Bharathi Matriculation and Higher secondary School";
+"PERCENTAGE":  "82%";
+};
+
+"TECHNICAL QUALIFICATION":{
+
+"Typewriting"  :  "Higher Grade in English in 2017";
+"Typewriting"  :  "Higher Grade in Tamil in 2018";
+"Software used": ["Microsoft Office, Word, PPT, Excel"];
+};
+
+"STRENGTH":{
+
+"Positive strength":["Confident, Determined and Positive thinking"];
+
+"Key strength":["Hardworking, Disciplined and sincere in work"];
+};
+
+"PERSONAL DETAILS":{
+
+"Age"           :  "24 years";
+"Date of Birth" :  "02.06.1998";
+"Marital Status":  "Married";
+"Husband Name"  :  "Manikandan.G";
+"Address"       :  ["3-415, Nehru Nagar, Kangaiyampalayam, sulur,"];
+"District"      :  "Coimbatore ";
+"Pincode"       :  "641 401";
+};
+
+"DECLARION": {
+
+"Declaration"   : "Everything is True";
+};
+
+}];

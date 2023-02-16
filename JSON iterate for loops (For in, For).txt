@@ -1,0 +1,20 @@
+JSON iterate for loops (For in, For)
+
+var car = [ {
+  "Name": "i20"
+"company": "Hyundai"
+"variants": "sports"
+"Fuel Type": "Diesel"
+"Body type": "Hatchback"
+"key Features": "["Airbag","Alloy Wheel", "Foglights", "power steering", "AC"]"      
+}];
+
+// For in loop
+ for ( var a in car){
+console.log(a.car[a]);
+}];
+
+// For loop
+ for ( var i=0;i<car.keyFeatures.length;i++){
+console.log(car.KeyFeatures[i]);
+}];
