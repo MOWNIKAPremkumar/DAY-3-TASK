@@ -15,9 +15,9 @@ let obj2 = {
     
 JSON.stringify(obj1) === JSON.stringify(obj2) 
   if (obj1 === obj2){
-  console.log(false);
-  } else {
   console.log(true);
+  } else {
+  console.log(false);
   }
 
   //----------------------****----------------------------****--------------****------------------****----------------
